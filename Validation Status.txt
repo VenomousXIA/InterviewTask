@@ -1,0 +1,5 @@
+Student 1: valid:true, all validations have been passed
+Student 2: valid: false, the student object contains invalid fields; English name
+Student 3: valid: false, > the student object contains invalid fields; Arabic name, email, address
+Student 4: valid:true, all validations have been passed
+Student 5: valid: false, > the student object contains invalid fields; English name, Arabic name

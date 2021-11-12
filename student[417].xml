@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<studentsList>
+   <student>
+      <ename>Ahmed Ali</ename>
+      <aname>احمد على</aname>
+      <email>aali@gmail.com</email>
+      <phone>+201234567890</phone>
+      <address>Address 1</address>
+   </student>
+   <student>
+      <ename>Mohamed1</ename>
+      <aname>محمد</aname>
+      <email>mohamed@gmail.com</email>
+      <phone>+201234567890</phone>
+      <address>Address 2</address>
+   </student>
+   <student>
+      <ename>Khalid Zaki</ename>
+      <aname>خالد زكى123</aname>
+      <email>khalid@gmail</email>
+      <phone>+201234567890</phone>
+      <address>Address $345</address>
+   </student>
+   <student>
+      <ename>Mona Mohamed</ename>
+      <aname>منى محمد</aname>
+      <email>mmohamed@gmail.com</email>
+      <phone>+201234567890</phone>
+      <address>Address 1000</address>
+   </student>
+   <student>
+      <ename>منى محمد</ename>
+      <aname>Mona Mohamed</aname>
+      <email>mmohamed@gmail.com</email>
+      <phone>+201234567890</phone>
+      <address>بيسشن 1000</address>
+   </student>
+</studentsList>
